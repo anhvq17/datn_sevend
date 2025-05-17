@@ -1,7 +1,7 @@
 const Homepage = () => {
   return (
-    <div>
-      Homepage
+    <div className="relative w-full">
+      <img src="/img/banner.jpg" className="w-full h-auto object-cover" />
     </div>
   )
 }
